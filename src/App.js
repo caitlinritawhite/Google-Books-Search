@@ -5,7 +5,7 @@ import Saved from "./pages/Saved/saved";
 import NoMatch from "./pages/NoMatch/nomatch";
 import Nav from "./components/Nav";
 
-import "./app.css"
+import "./App.css"
 
 function App() {
   return (
