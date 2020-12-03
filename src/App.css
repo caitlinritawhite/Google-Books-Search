@@ -22,6 +22,6 @@ body {
 }
 
 .btn:focus {
-  background-color: #F4B400 !important;
+  background-color: #34c5a6!important;
   cursor: pointer !important;
 }

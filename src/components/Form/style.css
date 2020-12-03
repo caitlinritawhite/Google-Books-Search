@@ -31,25 +31,29 @@ form .form-group input {
 
 form .btn {
     border-radius: 0 24px 24px 0;
-    background-color: #F4B400;
-    border-color: #F4B400;
+    background-color:  #34c5a6;
+    border-color:  #34c5a6;
 }
 
 form .btn i {
     margin: 0 1em;
-    background-color: #F4B400;
+    background-color:  #34c5a6;
 }
 
 .btn-success {
-    background-color: #F4B400;
-    border-color: #F4B400;
+    background-color:  #34c5a6;
+    border-color:  #34c5a6;
     color: #454545;
 }
 
 .btn-success:hover {
-    background-color: #F4B400;
-    border-color: #F4B400;
+    background-color:  #34c5a6;
+    border-color:  #34c5a6;
     color: white;
+}
+
+.btn-success:active {
+    background-color: #34c5a6;
 }
 
 .form-control {
